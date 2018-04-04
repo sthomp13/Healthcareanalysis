@@ -1,0 +1,41 @@
+Group Name: "Data Squad"
+
+Project Title: Healthcare Cost Analysis
+
+Members:
+1) Michelle Thong
+2) Mohamed Faliq
+3) Stephen Thompson
+4) Shikha Purohit
+
+Projection Description Outline:
+
+By leveraging datasets availible through census.gov and heatlcare.gov, we will create
+visualizations comparing Average Household Income and Average Healthcare Cost.
+As an additional dimension, we will view Obamacare enrollment and its effect on healthcare costs.
+The assumption is that with more people enrolled in obamacare, healthcare costs as a whole will decrease.
+
+Research Questions:
+
+1. Do states with higher average income have higher average healthcare costs?
+2. Has the introduction obamacare had an effect on healthcare costs?
+3. Can we project where healthcare costs are going?
+
+
+We will leverage data from 2005-2015.
+
+Databases that will be used:
+HealthData.gov
+Census.gov
+
+Rough Breakdown of tasks:
+1. Compare healthcare cost vs average income
+2. Compare uninsured rates from 2005 - 2015 and the introduction of obamacare
+3. Compare healthcare costs Insured Vs ACA Marketplace costs
+4. Compare Medicare/Medicaid Utilization since the introduction of Obamacare
+
+
+1. Stephen
+2. Stephen
+3. Shikha
+4. Mohamed
