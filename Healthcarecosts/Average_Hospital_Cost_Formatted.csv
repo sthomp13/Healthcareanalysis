@@ -1,0 +1,52 @@
+Item,Group,Region_Number,Region_Name,State_Name,2008 Cost,2009 Cost,2010 Cost,2011 Cost,2012 Cost,2013 Cost,2014 Cost
+Hospital Care ($),State,5,Southeast,Alabama,2031,2158,2201,2248,2440,2573,2625
+Hospital Care ($),State,8,Far West,Alaska,3659,3815,3996,4112,4198,4379,4715
+Hospital Care ($),State,6,Southwest,Arizona,1981,2125,2223,2206,2267,2334,2337
+Hospital Care ($),State,5,Southeast,Arkansas,2190,2297,2357,2407,2530,2558,2673
+Hospital Care ($),State,8,Far West,California,2015,2134,2310,2451,2561,2695,2753
+Hospital Care ($),State,7,Rocky Mountains,Colorado,2049,2209,2326,2363,2439,2600,2739
+Hospital Care ($),State,1,New England,Connecticut,2450,2684,2830,2981,3115,3268,3326
+Hospital Care ($),State,2,Mideast,Delaware,2951,3043,3368,3528,3680,3922,4078
+Hospital Care ($),State,2,Mideast,District of Columbia,4796,4952,4916,5088,5113,5181,5233
+Hospital Care ($),State,5,Southeast,Florida,2138,2306,2408,2404,2559,2592,2732
+Hospital Care ($),State,5,Southeast,Georgia,1881,1989,2015,2050,2198,2340,2446
+Hospital Care ($),State,8,Far West,Hawaii,2313,2412,2421,2395,2605,2689,2764
+Hospital Care ($),State,7,Rocky Mountains,Idaho,2011,2162,2316,2523,2748,2860,3038
+Hospital Care ($),State,3,Great Lakes,Illinois,2583,2698,2836,2916,3034,3188,3380
+Hospital Care ($),State,3,Great Lakes,Indiana,2478,2756,2857,2999,3375,3320,3492
+Hospital Care ($),State,4,Plains,Iowa,2598,2723,2852,2944,3064,3154,3292
+Hospital Care ($),State,4,Plains,Kansas,2403,2490,2560,2650,2828,2827,2964
+Hospital Care ($),State,5,Southeast,Kentucky,2494,2691,2790,2886,2942,3078,3217
+Hospital Care ($),State,5,Southeast,Louisiana,2452,2630,2804,2735,2773,2907,3050
+Hospital Care ($),State,1,New England,Maine,3076,3221,3455,3679,3817,3838,3953
+Hospital Care ($),State,2,Mideast,Maryland,2684,2810,2930,3049,3109,3158,3283
+Hospital Care ($),State,1,New England,Massachusetts,3401,3602,3718,3725,3817,3872,3933
+Hospital Care ($),State,3,Great Lakes,Michigan,2586,2710,2887,2977,3107,3147,3256
+Hospital Care ($),State,4,Plains,Minnesota,2496,2669,2796,2959,3057,3232,3373
+Hospital Care ($),State,5,Southeast,Mississippi,2664,2715,2659,2713,3107,3146,3228
+Hospital Care ($),State,4,Plains,Missouri,2963,3036,3117,3193,3369,3390,3492
+Hospital Care ($),State,7,Rocky Mountains,Montana,2712,2911,3106,3239,3390,3664,3722
+Hospital Care ($),State,4,Plains,Nebraska,2897,3001,3148,3175,3265,3341,3492
+Hospital Care ($),State,8,Far West,Nevada,1889,1926,1971,2038,2032,2206,2376
+Hospital Care ($),State,1,New England,New Hampshire,2830,3151,3363,3456,3542,3674,3771
+Hospital Care ($),State,2,Mideast,New Jersey,2226,2485,2519,2536,2748,2822,2915
+Hospital Care ($),State,6,Southwest,New Mexico,2426,2623,2777,2791,2889,2973,3166
+Hospital Care ($),State,2,Mideast,New York,2842,3052,3165,3226,3362,3501,3633
+Hospital Care ($),State,5,Southeast,North Carolina,2171,2321,2424,2536,2727,2682,2779
+Hospital Care ($),State,4,Plains,North Dakota,2978,3370,3473,3803,3910,4215,4479
+Hospital Care ($),State,3,Great Lakes,Ohio,2729,3085,3189,3196,3494,3650,3809
+Hospital Care ($),State,6,Southwest,Oklahoma,2419,2460,2585,2728,2868,2964,3118
+Hospital Care ($),State,8,Far West,Oregon,2103,2266,2435,2513,2586,2699,2940
+Hospital Care ($),State,2,Mideast,Pennsylvania,2735,2799,2992,3136,3205,3329,3416
+Hospital Care ($),State,1,New England,Rhode Island,2894,3069,3189,3321,3396,3469,3617
+Hospital Care ($),State,5,Southeast,South Carolina,2425,2560,2669,2727,2769,2837,2933
+Hospital Care ($),State,4,Plains,South Dakota,3138,3391,3648,3853,4000,4169,4415
+Hospital Care ($),State,5,Southeast,Tennessee,2105,2167,2253,2288,2448,2540,2617
+Hospital Care ($),State,6,Southwest,Texas,2110,2250,2342,2397,2545,2605,2698
+Hospital Care ($),State,7,Rocky Mountains,Utah,1796,1888,1949,2039,2133,2169,2351
+Hospital Care ($),State,1,New England,Vermont,3262,3578,3796,4011,4257,4527,4670
+Hospital Care ($),State,5,Southeast,Virginia,2212,2381,2461,2539,2706,2789,2912
+Hospital Care ($),State,8,Far West,Washington,2336,2554,2649,2724,2949,3003,3090
+Hospital Care ($),State,5,Southeast,West Virginia,2999,3255,3351,3452,3758,3876,4037
+Hospital Care ($),State,3,Great Lakes,Wisconsin,2638,2824,3011,3120,3206,3253,3502
+Hospital Care ($),State,7,Rocky Mountains,Wyoming,2864,3029,3287,3441,3607,3789,4001
